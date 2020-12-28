@@ -1,2 +1,21 @@
 @charset "utf-8";
 
+@charset "UTF-8";
+
+body{
+    margin: 0;
+}
+
+
+.header {
+    background-color: #444444;
+    color: #FAFAFA;
+}
+
+.header-title {
+    font-size: 32px;
+}
+
+.header-nav {
+    list-style: none;
+}
